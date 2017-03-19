@@ -1,0 +1,9 @@
+{
+    "version": "0.1.0",
+    "command": "Chrome",
+    "showOutput": "silent",    
+    "linux": {
+        "command": "/usr/bin/google-chrome"
+    },
+    "args": ["file:///${file}"]
+}
